@@ -1,0 +1,78 @@
+Evaluating RMSE, MAE of algorithm BaselineOnly.
+------------
+Mean RMSE: 0.4187
+Mean MAE : 0.1743
+------------
+------------
+
+Evaluating RMSE, MAE of algorithm KNNBasic.
+------------
+Mean RMSE: 0.4225
+Mean MAE : 0.1746
+------------
+------------
+
+Evaluating RMSE, MAE of algorithm 
+SVD.
+------------
+Mean RMSE: 0.4190
+Mean MAE : 0.1746
+------------
+------------
+
+Evaluating RMSE, MAE of algorithm 
+SVDpp.
+------------
+Mean RMSE: 0.4151
+Mean MAE : 0.1734
+------------
+------------
+
+Evaluating RMSE, MAE of algorithm SlopeOne.
+------------
+Mean RMSE: 0.4240
+Mean MAE : 0.1745
+------------
+------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluating RMSE, MAE of algorithm NMF.
+------------
+Mean RMSE: 0.4158
+Mean MAE : 0.1730
+------------
+------------
